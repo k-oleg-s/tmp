@@ -1,0 +1,15 @@
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\bin\Debug\net6.0\tutorial01.exe
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\bin\Debug\net6.0\tutorial01.deps.json
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\bin\Debug\net6.0\tutorial01.runtimeconfig.json
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\bin\Debug\net6.0\tutorial01.dll
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\bin\Debug\net6.0\ref\tutorial01.dll
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\bin\Debug\net6.0\tutorial01.pdb
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.csproj.AssemblyReference.cache
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.AssemblyInfoInputs.cache
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.AssemblyInfo.cs
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.csproj.CoreCompileInputs.cache
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.dll
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\ref\tutorial01.dll
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.pdb
+C:\Users\koleg\source\repos\k-oleg-s\tmp\blogspot_c#beginner\tutorial01\obj\Debug\net6.0\tutorial01.genruntimeconfig.cache
